@@ -39,7 +39,7 @@ ShatterBlocks is a neon-themed, retro-inspired brick breaker game built from scr
 
 1. **Clone the Repository:**
     ```sh
-    git clone https://github.com/yourusername/ShatterBlocks.git
+    git clone https://github.com/gitruparel/ShatterBlocks.git
     cd ShatterBlocks
     ```
 
@@ -84,12 +84,6 @@ ShatterBlocks/
 - Built with: SDL2, SDL2_mixer, SDL2_ttf
 
 Released under the MIT License. See [LICENSE](LICENSE).
-
-## Screenshots & GIFs
-
-You can add your own images:
-- To create GIFs, record gameplay (e.g., with OBS) and convert to GIF using ezgif.com.
-- Place your best screenshots in the repository and reference them here for a lively README.
 
 ## Support
 
