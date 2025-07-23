@@ -1,0 +1,39 @@
+# Visual Studio files
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+#  Build Results
+Debug/
+Release/
+x64/
+*.obj
+*.exe
+*.dll
+*.pdb
+*.log
+
+# SDL/Asset folders (do NOT ignore your own art/sfx folders)
+*.aps
+*.idb
+*.ilk
+
+# Misc
+*.ncb
+*.sdf
+*.opensdf
+*.cache
+*.db
+*.ipch
+
+# OS junk
+Thumbs.db
+.DS_Store
+ehthumbs.db
+desktop.ini
+
+# Don't ignore sfx, fonts, source, etc. Add more as needed!
